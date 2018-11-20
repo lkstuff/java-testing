@@ -2,10 +2,15 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3b7f4bed-c647-4b76-b177-a55055cd5020" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/test/java/com/laszlokiss/stub_mockitoMock_mockitoStub_after_refactor_code/SalesAnalysisServiceWithMockitoMockTest.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/test/java/com/laszlokiss/stub_mockitoMock_mockitoStub_after_refactor_code/SalesAnalysisServiceWithMockitoStubTest.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/test/java/com/laszlokiss/after_refactor/SalesAnalysisServiceWithHandWrittenStubTest.java" afterPath="$PROJECT_DIR$/src/test/java/com/laszlokiss/stub_mockitoMock_mockitoStub_after_refactor_code/SalesAnalysisServiceWithHandWrittenStubTest.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_mockito_mockito_all_1_9_5.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/test-classes/com/laszlokiss/stub_mockitoMock_mockitoStub_after_refactor_code/SalesAnalysisServiceWithHandWrittenStubTest$1.class" afterPath="$PROJECT_DIR$/target/test-classes/com/laszlokiss/stub_mockitoMock_mockitoStub_after_refactor_code/SalesAnalysisServiceWithHandWrittenStubTest$1.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/test-classes/com/laszlokiss/stub_mockitoMock_mockitoStub_after_refactor_code/SalesAnalysisServiceWithHandWrittenStubTest.class" afterPath="$PROJECT_DIR$/target/test-classes/com/laszlokiss/stub_mockitoMock_mockitoStub_after_refactor_code/SalesAnalysisServiceWithHandWrittenStubTest.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/test-classes/com/laszlokiss/stub_mockitoMock_mockitoStub_after_refactor_code/SalesAnalysisServiceWithMockitoStubTest.class" afterPath="$PROJECT_DIR$/target/test-classes/com/laszlokiss/stub_mockitoMock_mockitoStub_after_refactor_code/SalesAnalysisServiceWithMockitoStubTest.class" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/java-testing.iml" afterPath="$PROJECT_DIR$/java-testing.iml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pom.xml" afterPath="$PROJECT_DIR$/pom.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/test/java/com/laszlokiss/stub_mockitoMock_mockitoStub_after_refactor_code/SalesAnalysisServiceWithHandWrittenStubTest.java" afterPath="$PROJECT_DIR$/src/test/java/com/laszlokiss/stub_mockitoMock_mockitoStub_after_refactor_code/SalesAnalysisServiceWithHandWrittenStubTest.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/test/java/com/laszlokiss/stub_mockitoMock_mockitoStub_after_refactor_code/SalesAnalysisServiceWithMockitoStubTest.java" afterPath="$PROJECT_DIR$/src/test/java/com/laszlokiss/stub_mockitoMock_mockitoStub_after_refactor_code/SalesAnalysisServiceWithMockitoStubTest.java" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -27,7 +32,7 @@
         <entry file="file://$PROJECT_DIR$/src/main/java/com/laszlokiss/dependencies/before_refactor/ReportRunner.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="225">
-              <caret line="15" column="0" lean-forward="true" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
+              <caret line="15" column="0" lean-forward="false" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -47,7 +52,7 @@
         <entry file="file://$PROJECT_DIR$/src/main/java/com/laszlokiss/dependencies/after_refactor/SalesAnalysisService.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="108">
-              <caret line="14" column="26" lean-forward="true" selection-start-line="14" selection-start-column="26" selection-end-line="14" selection-end-column="26" />
+              <caret line="14" column="26" lean-forward="false" selection-start-line="14" selection-start-column="26" selection-end-line="14" selection-end-column="26" />
               <folding>
                 <element signature="e#428#429#0" expanded="true" />
                 <element signature="e#460#461#0" expanded="true" />
@@ -60,25 +65,47 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="SalesAnalysisServiceWithHandWrittenStubTest.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="SalesAnalysisServiceWithHandWrittenStubTest.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/test/java/com/laszlokiss/stub_mockitoMock_mockitoStub_after_refactor_code/SalesAnalysisServiceWithHandWrittenStubTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="235">
-              <caret line="48" column="0" lean-forward="true" selection-start-line="48" selection-start-column="0" selection-end-line="48" selection-end-column="0" />
+            <state relative-caret-position="280">
+              <caret line="51" column="54" lean-forward="false" selection-start-line="39" selection-start-column="8" selection-end-line="51" selection-end-column="54" />
               <folding>
                 <element signature="imports" expanded="true" />
-                <element signature="e#1368#1369#0" expanded="true" />
-                <element signature="e#1419#1420#0" expanded="true" />
+                <element signature="e#1372#1373#0" expanded="true" />
+                <element signature="e#1423#1424#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="SalesAnalysisServiceWithMockitoStubTest.java" pinned="false" current-in-tab="false">
+      <file leaf-file-name="SalesAnalysisServiceWithMockitoStubTest.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/test/java/com/laszlokiss/stub_mockitoMock_mockitoStub_after_refactor_code/SalesAnalysisServiceWithMockitoStubTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="55">
+              <caret line="39" column="36" lean-forward="true" selection-start-line="39" selection-start-column="36" selection-end-line="39" selection-end-column="36" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="SalesAnalysisServiceWithMockitoMockTest.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/com/laszlokiss/stub_mockitoMock_mockitoStub_after_refactor_code/SalesAnalysisServiceWithMockitoMockTest.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="30">
               <caret line="2" column="52" lean-forward="false" selection-start-line="2" selection-start-column="52" selection-end-line="2" selection-end-column="52" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="pom.xml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/pom.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="295">
+              <caret line="64" column="21" lean-forward="false" selection-start-line="64" selection-start-column="21" selection-end-line="64" selection-end-column="21" />
               <folding />
             </state>
           </provider>
@@ -88,7 +115,7 @@
         <entry file="file://$PROJECT_DIR$/src/main/java/com/laszlokiss/dependencies/after_refactor/CsvSalesRepository.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="225">
-              <caret line="33" column="33" lean-forward="true" selection-start-line="33" selection-start-column="33" selection-end-line="33" selection-end-column="33" />
+              <caret line="33" column="33" lean-forward="false" selection-start-line="33" selection-start-column="33" selection-end-line="33" selection-end-column="33" />
               <folding />
             </state>
           </provider>
@@ -145,7 +172,6 @@
         <option value="$PROJECT_DIR$/src/main/java/com/laszlokiss/TDDExample/LeapYear.java" />
         <option value="$PROJECT_DIR$/src/test/java/com/laszlokiss/TDDExample/WorldWrapTest.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/laszlokiss/TDDExample/WorldWrap.java" />
-        <option value="$PROJECT_DIR$/pom.xml" />
         <option value="$PROJECT_DIR$/src/main/java/com/laszlokiss/dependencies/before_refactor/Sale.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/laszlokiss/dependencies/before_refactor/SalesRepository.java" />
         <option value="$PROJECT_DIR$/src/main/resources/com.laszlokiss.dependencies/application-context.xml" />
@@ -161,6 +187,8 @@
         <option value="$PROJECT_DIR$/src/main/java/com/laszlokiss/dependencies/after_refactor/SimpleReportRunner.java" />
         <option value="$PROJECT_DIR$/src/test/java/com/laszlokiss/stub_mockitoMock_mockitoStub/SalesAnalysisServiceWithHandWrittenStubTest.java" />
         <option value="$PROJECT_DIR$/src/test/java/com/laszlokiss/stub_mockitoMock_mockitoStub_after_refactor_code/SalesAnalysisServiceWithHandWrittenStubTest.java" />
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/src/test/java/com/laszlokiss/stub_mockitoMock_mockitoStub_after_refactor_code/SalesAnalysisServiceWithMockitoStubTest.java" />
       </list>
     </option>
   </component>
@@ -350,32 +378,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.SalesAnalysisServiceWithHandWrittenStubTest.shouldAggregateStoreSales">
-    <configuration name="CafeTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
-        <pattern>
-          <option name="PATTERN" value="com.laszlokiss.cafeForTesting.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <module name="java-testing" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PACKAGE_NAME" value="com.laszlokiss.cafeForTesting" />
-      <option name="MAIN_CLASS_NAME" value="com.laszlokiss.cafeForTesting.CafeTest" />
-      <option name="METHOD_NAME" />
-      <option name="TEST_OBJECT" value="class" />
-      <option name="VM_PARAMETERS" value="-ea" />
-      <option name="PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="TEST_SEARCH_SCOPE">
-        <value defaultName="singleModule" />
-      </option>
-      <envs />
-      <patterns />
-    </configuration>
+  <component name="RunManager" selected="JUnit.SalesAnalysisServiceWithMockitoStubTest.shouldAggregateStoreSales">
     <configuration name="HamcrestExampleTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
@@ -432,6 +435,31 @@
       <option name="ALTERNATIVE_JRE_PATH" />
       <option name="PACKAGE_NAME" value="com.laszlokiss.stub_mockitoMock_mockitoStub_after_refactor_code" />
       <option name="MAIN_CLASS_NAME" value="com.laszlokiss.stub_mockitoMock_mockitoStub_after_refactor_code.SalesAnalysisServiceWithHandWrittenStubTest" />
+      <option name="METHOD_NAME" value="shouldAggregateStoreSales" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
+    </configuration>
+    <configuration name="SalesAnalysisServiceWithMockitoStubTest.shouldAggregateStoreSales" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="com.laszlokiss.stub_mockitoMock_mockitoStub_after_refactor_code.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <module name="java-testing" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="com.laszlokiss.stub_mockitoMock_mockitoStub_after_refactor_code" />
+      <option name="MAIN_CLASS_NAME" value="com.laszlokiss.stub_mockitoMock_mockitoStub_after_refactor_code.SalesAnalysisServiceWithMockitoStubTest" />
       <option name="METHOD_NAME" value="shouldAggregateStoreSales" />
       <option name="TEST_OBJECT" value="method" />
       <option name="VM_PARAMETERS" value="-ea" />
@@ -545,19 +573,19 @@
       <listeners />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="JUnit.CafeTest" />
-      <item index="1" class="java.lang.String" itemvalue="JUnit.HamcrestExampleTest" />
-      <item index="2" class="java.lang.String" itemvalue="Application.ReportRunner" />
-      <item index="3" class="java.lang.String" itemvalue="Application.SimpleReportRunner" />
-      <item index="4" class="java.lang.String" itemvalue="JUnit.SalesAnalysisServiceWithHandWrittenStubTest.shouldAggregateStoreSales" />
+      <item index="0" class="java.lang.String" itemvalue="JUnit.HamcrestExampleTest" />
+      <item index="1" class="java.lang.String" itemvalue="Application.ReportRunner" />
+      <item index="2" class="java.lang.String" itemvalue="Application.SimpleReportRunner" />
+      <item index="3" class="java.lang.String" itemvalue="JUnit.SalesAnalysisServiceWithHandWrittenStubTest.shouldAggregateStoreSales" />
+      <item index="4" class="java.lang.String" itemvalue="JUnit.SalesAnalysisServiceWithMockitoStubTest.shouldAggregateStoreSales" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="JUnit.SalesAnalysisServiceWithHandWrittenStubTest.shouldAggregateStoreSales" />
-        <item index="1" class="java.lang.String" itemvalue="Application.SimpleReportRunner" />
-        <item index="2" class="java.lang.String" itemvalue="Application.ReportRunner" />
-        <item index="3" class="java.lang.String" itemvalue="JUnit.HamcrestExampleTest" />
-        <item index="4" class="java.lang.String" itemvalue="JUnit.CafeTest" />
+        <item index="0" class="java.lang.String" itemvalue="JUnit.SalesAnalysisServiceWithMockitoStubTest.shouldAggregateStoreSales" />
+        <item index="1" class="java.lang.String" itemvalue="JUnit.SalesAnalysisServiceWithHandWrittenStubTest.shouldAggregateStoreSales" />
+        <item index="2" class="java.lang.String" itemvalue="Application.SimpleReportRunner" />
+        <item index="3" class="java.lang.String" itemvalue="Application.ReportRunner" />
+        <item index="4" class="java.lang.String" itemvalue="JUnit.HamcrestExampleTest" />
       </list>
     </recent_temporary>
   </component>
@@ -580,7 +608,7 @@
       <workItem from="1542268932200" duration="3726000" />
       <workItem from="1542346807638" duration="2280000" />
       <workItem from="1542350069163" duration="8263000" />
-      <workItem from="1542361047262" duration="16192000" />
+      <workItem from="1542361047262" duration="17390000" />
     </task>
     <servers />
   </component>
@@ -594,11 +622,11 @@
     <history-entry file="SalesAnalysisServiceWithHandWrittenStubTest_shouldAggregateStoreSales - 2018.11.20 at 11h 55m 23s.xml">
       <configuration name="SalesAnalysisServiceWithHandWrittenStubTest.shouldAggregateStoreSales" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="WorldWrapTest - 2018.11.13 at 15h 42m 17s.xml">
-      <configuration name="WorldWrapTest" configurationId="JUnit" />
+    <history-entry file="SalesAnalysisServiceWithMockitoStubTest_shouldAggregateStoreSales - 2018.11.20 at 12h 08m 33s.xml">
+      <configuration name="SalesAnalysisServiceWithMockitoStubTest.shouldAggregateStoreSales" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="WorldWrapTest - 2018.11.13 at 15h 46m 54s.xml">
-      <configuration name="WorldWrapTest" configurationId="JUnit" />
+    <history-entry file="SalesAnalysisServiceWithMockitoStubTest_shouldAggregateStoreSales - 2018.11.20 at 12h 11m 36s.xml">
+      <configuration name="SalesAnalysisServiceWithMockitoStubTest.shouldAggregateStoreSales" configurationId="JUnit" />
     </history-entry>
     <history-entry file="WorldWrapTest - 2018.11.13 at 15h 49m 56s.xml">
       <configuration name="WorldWrapTest" configurationId="JUnit" />
@@ -617,7 +645,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="48515000" />
+    <option name="totallyTimeSpent" value="49713000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="111" y="24" width="1366" height="743" extended-state="6" />
@@ -642,7 +670,7 @@
       <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3289689" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3289689" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Coverage" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32954547" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
       <window_info id="Spring" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -1002,7 +1030,7 @@
     <entry file="file://$PROJECT_DIR$/src/main/java/com/laszlokiss/dependencies/before_refactor/ReportRunner.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="225">
-          <caret line="15" column="0" lean-forward="true" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
+          <caret line="15" column="0" lean-forward="false" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
           <folding />
         </state>
       </provider>
@@ -1034,31 +1062,7 @@
     <entry file="file://$PROJECT_DIR$/src/main/java/com/laszlokiss/dependencies/after_refactor/CsvSalesRepository.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="225">
-          <caret line="33" column="33" lean-forward="true" selection-start-line="33" selection-start-column="33" selection-end-line="33" selection-end-column="33" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-560">
-          <caret line="7" column="42" lean-forward="false" selection-start-line="7" selection-start-column="42" selection-end-line="7" selection-end-column="42" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/com/laszlokiss/stub_mockitoMock_mockitoStub_after_refactor_code/SalesAnalysisServiceWithMockitoStubTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="2" column="52" lean-forward="false" selection-start-line="2" selection-start-column="52" selection-end-line="2" selection-end-column="52" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/com/laszlokiss/stub_mockitoMock_mockitoStub_after_refactor_code/SalesAnalysisServiceWithMockitoMockTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="2" column="52" lean-forward="false" selection-start-line="2" selection-start-column="52" selection-end-line="2" selection-end-column="52" />
+          <caret line="33" column="33" lean-forward="false" selection-start-line="33" selection-start-column="33" selection-end-line="33" selection-end-column="33" />
           <folding />
         </state>
       </provider>
@@ -1074,7 +1078,7 @@
     <entry file="file://$PROJECT_DIR$/src/main/java/com/laszlokiss/dependencies/after_refactor/SalesAnalysisService.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="108">
-          <caret line="14" column="26" lean-forward="true" selection-start-line="14" selection-start-column="26" selection-end-line="14" selection-end-column="26" />
+          <caret line="14" column="26" lean-forward="false" selection-start-line="14" selection-start-column="26" selection-end-line="14" selection-end-column="26" />
           <folding>
             <element signature="e#428#429#0" expanded="true" />
             <element signature="e#460#461#0" expanded="true" />
@@ -1088,12 +1092,38 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/com/laszlokiss/stub_mockitoMock_mockitoStub_after_refactor_code/SalesAnalysisServiceWithHandWrittenStubTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="235">
-          <caret line="48" column="0" lean-forward="true" selection-start-line="48" selection-start-column="0" selection-end-line="48" selection-end-column="0" />
+        <state relative-caret-position="280">
+          <caret line="51" column="54" lean-forward="false" selection-start-line="39" selection-start-column="8" selection-end-line="51" selection-end-column="54" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#1368#1369#0" expanded="true" />
-            <element signature="e#1419#1420#0" expanded="true" />
+            <element signature="e#1372#1373#0" expanded="true" />
+            <element signature="e#1423#1424#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="295">
+          <caret line="64" column="21" lean-forward="false" selection-start-line="64" selection-start-column="21" selection-end-line="64" selection-end-column="21" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/laszlokiss/stub_mockitoMock_mockitoStub_after_refactor_code/SalesAnalysisServiceWithMockitoMockTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="52" lean-forward="false" selection-start-line="2" selection-start-column="52" selection-end-line="2" selection-end-column="52" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/laszlokiss/stub_mockitoMock_mockitoStub_after_refactor_code/SalesAnalysisServiceWithMockitoStubTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="55">
+          <caret line="39" column="36" lean-forward="true" selection-start-line="39" selection-start-column="36" selection-end-line="39" selection-end-column="36" />
+          <folding>
+            <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>

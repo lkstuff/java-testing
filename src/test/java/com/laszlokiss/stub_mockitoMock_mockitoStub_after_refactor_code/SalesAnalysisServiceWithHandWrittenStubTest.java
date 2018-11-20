@@ -23,7 +23,8 @@ public class SalesAnalysisServiceWithHandWrittenStubTest
     );
 
     private static final Map<String, Integer> expectedStoreSales = new HashMap<>();
-    static {
+    static
+    {
         expectedStoreSales.put("Ózd", 4700);
         expectedStoreSales.put("Budapest", 3500);
     }
