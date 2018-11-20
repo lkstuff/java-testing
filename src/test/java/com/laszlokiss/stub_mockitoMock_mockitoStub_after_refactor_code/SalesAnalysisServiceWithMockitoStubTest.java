@@ -1,0 +1,4 @@
+package com.laszlokiss.stub_mockitoMock_mockitoStub_after_refactor_code;
+
+public class SalesAnalysisServiceWithMockitoStubTest{
+}
